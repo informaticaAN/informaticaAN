@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = https://informaticaan.github.io/informaticaAN/
+baseURL = "https://informaticaan.github.io/informaticaAN/"
 languageCode = "es"
 title = "Mi blog de recetas"
 theme = ""
