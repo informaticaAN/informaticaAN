@@ -1,0 +1,40 @@
+################## Hero area ##################
+hero_area:
+  enable : true
+  bg_image : "images/fondoPrincipal.jpg"
+  overlay : true
+
+################### Gallery ###################
+gallery:
+  enable : true
+  title : "Galería de recetas"
+  images:
+    - "images/slider/receta1-slider.png"
+    - "images/slider/receta2-slider.png"
+    - "images/slider/receta3-slider.png"
+    - "images/slider/receta4-slider.png"
+    - "images/slider/receta1-slider.png"
+    - "images/slider/receta2-slider.png"
+    - "images/slider/receta3-slider.png"
+    - "images/slider/receta4-slider.png"
+
+################ About #######################
+about:
+  enable : true
+  image : "images/myAvatar.jpg"
+  title : "Sobre mí"
+  description : "Hola, soy Elisa, una estudiante del grado de Ingeniería Informática. En mi tiempo libre me gusta probar recetas nuevas que sean fáciles de realizar. He decidido compartir las que más me han gustado, ¡espero que os gusten!"
+  
+################# Blog ######################
+blog:
+  enable : true
+  title : "Recopilación de recetas"
+  bg_image : "images/blog/fondoPosts.jpg"
+  overlay : true
+
+################ Contact #######################
+contact:
+  enable : true
+  title: "Ponte en contacto conmigo"
+  subtitle: "Regístrate para recibir alertas por correo electrónico"
+  form_action : "#" #contact form works with formspree.io
